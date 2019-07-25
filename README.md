@@ -40,7 +40,8 @@ $ npm install
 # development
 # before run application, run webpack to watch files 
 $ npm run webpack
-#after run webpack, run application
+
+# after run webpack, run application
 $ npm run start
 
 # watch mode
